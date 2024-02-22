@@ -5,3 +5,11 @@ Expectations:
 - Enhance my backend development skills in server-side components for web applications.
 - Practice versatility in different coding aspects to develop a broader understanding of web development.
 
+
+<<<<<<< pascual
+
+
+I agree with your expectations. -Jamaika
+=======
+>>>>>>> main
+
