@@ -5,6 +5,10 @@ Expectations:
 - Enhance my backend development skills in server-side components for web applications.
 - Practice versatility in different coding aspects to develop a broader understanding of web development.
 
+<<<<<<< Irapta
+I do agree with the expectations especially with learning and understanding of Javascript 
+-Irapta
+=======
 
 <<<<<<< pascual
 
@@ -13,3 +17,4 @@ I agree with your expectations. -Jamaika
 =======
 >>>>>>> main
 
+>>>>>>> main
